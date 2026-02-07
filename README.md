@@ -8,6 +8,8 @@ The previous author archived the original project. This version has been almost 
 
 **Coming soon:** Google Play (I actually need help with that, [here are the details](https://github.com/Grigoriym/TaigaMobileNova/issues/203)) and F-Droid (still waiting, here are my MRs [1](https://gitlab.com/fdroid/rfp/-/issues/3511) and [2](https://gitlab.com/fdroid/fdroiddata/-/merge_requests/32013))
 
+**Future plans:** I plan to migrate this project to Kotlin Multiplatform (KMP), enabling iOS support
+
 [Project board](https://tasks.gregstuff.click/project/taigamobilenova/kanban)
 
 ## Screenshots
